@@ -1,2 +1,4 @@
-yfinance=0.1.70
-pytickersymbols=1.8.78
+yfinance==0.1.70
+pytickersymbols==1.8.78
+pandas
+seaborn
